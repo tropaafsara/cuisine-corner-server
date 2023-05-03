@@ -13,6 +13,12 @@ app.get('/',(req,res)=>{
 app.get('/chefInfo',(req,res)=>{
     res.send(chef)
 });
+app.get('/chefInfo/:id',(req,res)=>{
+    const id  = req.params.id;
+    console.log(id);
+    const selectedNews = chef.find(n=>n._id === id);
+    res.send(selectedNews);
+});
 
 app.listen(port,()=>{
     console.log(`Chef Hunter API is running on port: ${port}`);
