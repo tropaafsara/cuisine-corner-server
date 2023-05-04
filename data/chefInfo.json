@@ -17,6 +17,22 @@
             "rating": 4.5
           },
           {
+            "recipe_img": "https://i.ibb.co/XCkHK4J/recipe1.jpg",
+            "recipe_name": "Garlic Shrimp Linguine",
+            "ingredients": "linguine, shrimp, peeled and deveined, garlic, minced butter,white wine.",
+            "cooking_method":
+              "Cook linguine according to package directions. While pasta is cooking, melt butter in a large skillet over medium-high heat. Add garlic and sauté for 1 minute. Add shrimp and cook until pink, about 3-4 minutes. Add white wine and cook for an additional 2 minutes. Add cooked linguine to the skillet and toss to coat with sauce. Add salt and black pepper to taste. Garnish with chopped parsley and lemon slices. Serve immediately.",
+            "rating": 4.5
+          },
+          {
+            "recipe_img": "https://i.ibb.co/XCkHK4J/recipe1.jpg",
+            "recipe_name": "Garlic Shrimp Linguine",
+            "ingredients": "linguine, shrimp, peeled and deveined, garlic, minced butter,white wine.",
+            "cooking_method":
+              "Cook linguine according to package directions. While pasta is cooking, melt butter in a large skillet over medium-high heat. Add garlic and sauté for 1 minute. Add shrimp and cook until pink, about 3-4 minutes. Add white wine and cook for an additional 2 minutes. Add cooked linguine to the skillet and toss to coat with sauce. Add salt and black pepper to taste. Garnish with chopped parsley and lemon slices. Serve immediately.",
+            "rating": 4.5
+          },
+          {
             "recipe_img": "https://i.ibb.co/CVbx3MH/recipe2.jpg",
             "recipe_name": "Spaghetti Bolognese",
             "ingredients": "Spaghetti, Ground beef, Onion, Garlic, Canned diced tomatoes, Tomato paste, Beef broth, Red wine, Parmesan cheese.",
@@ -98,6 +114,38 @@
           },
           {
             "recipe_img": "https://i.ibb.co/XCkHK4J/recipe1.jpg",
+            "recipe_name": "Shrimp and Grits",
+            "ingredients": "Shrimp, Grits, Bacon, Onion, Green bell pepper, Garlic, Chicken broth, Heavy cream, Cheddar cheese, Green onion.",
+            "cooking_method":
+              "Cook linguine according to package directions. While pasta is cooking, melt butter in a large skillet over medium-high heat. Add garlic and sauté for 1 minute. Add shrimp and cook until pink, about 3-4 minutes. Add white wine and cook for an additional 2 minutes. Add cooked linguine to the skillet and toss to coat with sauce. Add salt and black pepper to taste. Garnish with chopped parsley and lemon slices. Serve immediately.",
+            "rating": 4.5
+          },
+          {
+            "recipe_img": "https://i.ibb.co/XCkHK4J/recipe1.jpg",
+            "recipe_name": "Shrimp and Grits",
+            "ingredients": "Shrimp, Grits, Bacon, Onion, Green bell pepper, Garlic, Chicken broth, Heavy cream, Cheddar cheese, Green onion.",
+            "cooking_method":
+              "Cook linguine according to package directions. While pasta is cooking, melt butter in a large skillet over medium-high heat. Add garlic and sauté for 1 minute. Add shrimp and cook until pink, about 3-4 minutes. Add white wine and cook for an additional 2 minutes. Add cooked linguine to the skillet and toss to coat with sauce. Add salt and black pepper to taste. Garnish with chopped parsley and lemon slices. Serve immediately.",
+            "rating": 4.5
+          },
+          {
+            "recipe_img": "https://i.ibb.co/XCkHK4J/recipe1.jpg",
+            "recipe_name": "Shrimp and Grits",
+            "ingredients": "Shrimp, Grits, Bacon, Onion, Green bell pepper, Garlic, Chicken broth, Heavy cream, Cheddar cheese, Green onion.",
+            "cooking_method":
+              "Cook linguine according to package directions. While pasta is cooking, melt butter in a large skillet over medium-high heat. Add garlic and sauté for 1 minute. Add shrimp and cook until pink, about 3-4 minutes. Add white wine and cook for an additional 2 minutes. Add cooked linguine to the skillet and toss to coat with sauce. Add salt and black pepper to taste. Garnish with chopped parsley and lemon slices. Serve immediately.",
+            "rating": 4.5
+          },
+          {
+            "recipe_img": "https://i.ibb.co/XCkHK4J/recipe1.jpg",
+            "recipe_name": "Shrimp and Grits",
+            "ingredients": "Shrimp, Grits, Bacon, Onion, Green bell pepper, Garlic, Chicken broth, Heavy cream, Cheddar cheese, Green onion.",
+            "cooking_method":
+              "Cook linguine according to package directions. While pasta is cooking, melt butter in a large skillet over medium-high heat. Add garlic and sauté for 1 minute. Add shrimp and cook until pink, about 3-4 minutes. Add white wine and cook for an additional 2 minutes. Add cooked linguine to the skillet and toss to coat with sauce. Add salt and black pepper to taste. Garnish with chopped parsley and lemon slices. Serve immediately.",
+            "rating": 4.5
+          },
+          {
+            "recipe_img": "https://i.ibb.co/XCkHK4J/recipe1.jpg",
             "recipe_name": "Garlic Shrimp Linguine",
             "ingredients": "Arborio rice, Mushroom, Onion, Garlic, White wine, Chicken broth, Parmesan cheese, Butter.",
             "cooking_method":
@@ -115,6 +163,22 @@
         "likes": 500,
         "bio": "Sarah Lee is a classically trained chef who specializes in French cuisine. She graduated from Le Cordon Bleu Paris and honed her skills working in Michelin-starred restaurants in Paris and Lyon. After moving to New York, Samantha became the executive chef at a popular French bistro, where she earned rave reviews for her traditional dishes with a modern twist. She is known for her attention to detail and her use of seasonal and local ingredients. In addition to running her own catering business, Samantha is also a culinary instructor and frequently appears as a guest chef on local television shows.",
         "recipeInfo": [
+          {
+            "recipe_img": "https://i.ibb.co/XCkHK4J/recipe1.jpg",
+            "recipe_name": "Garlic Shrimp Linguine",
+            "ingredients": "linguine, shrimp, peeled and deveined, garlic, minced butter,white wine",
+            "cooking_method":
+              "Cook linguine according to package directions. While pasta is cooking, melt butter in a large skillet over medium-high heat. Add garlic and sauté for 1 minute. Add shrimp and cook until pink, about 3-4 minutes. Add white wine and cook for an additional 2 minutes. Add cooked linguine to the skillet and toss to coat with sauce. Add salt and black pepper to taste. Garnish with chopped parsley and lemon slices. Serve immediately.",
+            "rating": 4.5
+          },
+          {
+            "recipe_img": "https://i.ibb.co/XCkHK4J/recipe1.jpg",
+            "recipe_name": "Garlic Shrimp Linguine",
+            "ingredients": "linguine, shrimp, peeled and deveined, garlic, minced butter,white wine",
+            "cooking_method":
+              "Cook linguine according to package directions. While pasta is cooking, melt butter in a large skillet over medium-high heat. Add garlic and sauté for 1 minute. Add shrimp and cook until pink, about 3-4 minutes. Add white wine and cook for an additional 2 minutes. Add cooked linguine to the skillet and toss to coat with sauce. Add salt and black pepper to taste. Garnish with chopped parsley and lemon slices. Serve immediately.",
+            "rating": 4.5
+          },
           {
             "recipe_img": "https://i.ibb.co/XCkHK4J/recipe1.jpg",
             "recipe_name": "Garlic Shrimp Linguine",
